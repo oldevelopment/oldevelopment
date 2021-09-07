@@ -1,0 +1,5 @@
+- 👋 Hi, We are FlatlineAgency.com
+- 👀 We Make you Pulse! 
+- 🌱 Always improving to create the worlds most unique and amazing (web)apps!
+- 💞️ We are always looking to meet the creatives
+- 📫 info@flatlineagency.com
