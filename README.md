@@ -1,6 +1,1 @@
-- 👋 Hi, We are FlatlineAgency.com
-- 👀 We Make you Pulse! 
-- 🌱 Always improving to create the worlds most unique and amazing (web)apps!
-- 💞️ We are looking to meet the creatives
-- 📫 Amsterdam office: info@flatlineagency.com
-- 📫 New York office: ny@flatlineagency.com
+
